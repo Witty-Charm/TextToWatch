@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135424599078",
+    "project_id": "texttowatch-18bd2",
+    "storage_bucket": "texttowatch-18bd2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135424599078:android:ea404bd74c8d87595fb2e7",
+        "android_client_info": {
+          "package_name": "com.example.texttowatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDl2xsif1xYVJgSif3E2O7w04m2-FC748"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
