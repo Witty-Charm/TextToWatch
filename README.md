@@ -5,7 +5,6 @@
 [![Android](https://img.shields.io/badge/Android-8.0+-green?logo=android)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.8+-purple?logo=kotlin)](https://kotlinlang.org)
 [![Firebase](https://img.shields.io/badge/Firebase-Realtime-orange?logo=firebase)](https://firebase.google.com)
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
 ## ✨ Features
 
